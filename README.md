@@ -1,7 +1,6 @@
 Hi there! 👋
 • 🖥️ Programming Languages: R, SAS
 • 🌟 Passionate for AI in Healthcare
-• 😄 Pronouns: She/Her
 
 Welcome to my GitHub! I am a highly skilled and results-driven biostatistician and medical doctor with over 4 years of experience applying advanced statistical methods to healthcare data. My work bridges the gap between medicine, public health, and data science, with a strong track record of conducting complex analyses to influence strategic healthcare decisions and improve clinical interventions.
 
